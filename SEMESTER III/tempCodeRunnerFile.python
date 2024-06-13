@@ -1,0 +1,5 @@
+# queue implementation
+
+s=[]
+if len(s)==1:
+    print("saetg")
